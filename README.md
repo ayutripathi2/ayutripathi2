@@ -25,7 +25,7 @@ const ayuTripathi = {
   stack: ["C++", "HTML", "CSS", "JavaScript", "SQL", "React (learning)", "Node.js (learning)", "MongoDB (learning)"],
   launchedProjects: ["Weather App", "Student Study Planner"],
   certifications: [],
-  status: "Actively building & learning full-stack development",
+  status: "Actively building & learning full-stack development & learning DSA",
   openTo: ["Full-Stack Roles", "Collaboration", "Open Source"],
 };
 ```
